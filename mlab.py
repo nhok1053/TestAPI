@@ -1,3 +1,5 @@
+from mongoengine import *
+
 from mongoengine import connect
 
 db_name = "c4e-portfolio"
